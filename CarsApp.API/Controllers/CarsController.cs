@@ -149,7 +149,7 @@ namespace CarsApp.API.Controllers
         }
 
 
-        // GET: api/<CarsController>
+        /* / GET: api/<CarsController>
         [HttpGet]
         public IEnumerable<string> Get()
         {
@@ -179,6 +179,6 @@ namespace CarsApp.API.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-        }
+        } */
     }
 }
